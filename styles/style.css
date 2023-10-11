@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  background-color: #4416ea;
+  background-color: rgba(17, 139, 48, 0.2509803922);
   color: white;
   text-align: center;
   padding: 20px;
@@ -29,4 +29,6 @@ main section {
 }
 main section h2 {
   font-size: 1.5rem;
-} /*# sourceMappingURL=style.css.map */
+}
+
+/*# sourceMappingURL=style.css.map */
